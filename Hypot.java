@@ -8,7 +8,7 @@ class Hypot {
 		
 		z = Math.sqrt(x*x + y*y);
 		System.out.println("La hipotenusa es: " + z);
-		
+		System.out.println("Cambios en la rama personal");
 		
 	 }
 	
